@@ -153,6 +153,9 @@ This LMS project demonstrates how to develop a GUI-based application with role-s
 ![adminLogin](https://github.com/user-attachments/assets/54436c6e-001d-4ec2-aaf7-d9143923343b)
 ![admin1](https://github.com/user-attachments/assets/56114fdf-df52-4b45-bd3c-89ba651426d1)
 ![admin](https://github.com/user-attachments/assets/0218314f-fef9-469e-b198-10263e3ed702)
+
+![InstructorLogin](https://github.com/user-attachments/assets/16a342a0-0732-43c2-a08e-cbfa05bde74a)
+
 ![instructordashboard](https://github.com/user-attachments/assets/5c15f554-0b33-45df-a7d6-a6e224304b35)
 
 ![StudentLogin](https://github.com/user-attachments/assets/88d52a2f-52df-4dbe-b737-0257448c1112)
