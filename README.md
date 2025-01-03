@@ -135,24 +135,33 @@ This LMS project demonstrates how to develop a GUI-based application with role-s
 - Enhance the GUI for better user experience.
 
 ---
+## Team Members:
+- **Samiksha Singh** (Team Leader)
+- **Raj Kumar Sharma**
+- **Prasoon Singh**
+- **Rishita Gupta**
+- 
 
-### Contact Information
-**Project Developer:** Raj Kumar Sharma  
-**Role:** Founder & CEO, Nexus R+  
-**Email:** rajkumar.sharma@example.com
 
 ---
 
-### Adding Images to README on GitHub
-To add an image to your GitHub README:
-1. Save your image in the project directory or an accessible URL.
-2. Use the following syntax to embed the image:
-   ```markdown
-   ![Alt text](path_to_image "Optional Title")
-   ```
-   Example:
-   ```markdown
-   ![LMS Dashboard](images/dashboard.png "LMS Dashboard Screenshot")
-   ```
-3. Commit and push the changes to GitHub.
+### Adding Images 
+
+![adminLogin](https://github.com/user-attachments/assets/f193e724-0289-4824-8497-24fff310bf25)
+![Screenshot (138)](![Screenshot ![Screenshot (148)](https://github.com/user-![Screenshot (154)](https://github.com/user-attachments/assets/263a15a8-c857-4775-9172-e1bf0209c9f7)
+![Sc![Screenshot (153)](htt![Screenshot (156)](https://github.com/user-attachments/assets/d22285f5-57c5-45b4-9048-e957b2b54bc0)
+ps://github.com/user-attachments/assets/dc47d076-f79e-41a7-b5ce-cf46fd![Screenshot (155)](https://github.com/user-attachments/assets/29fbed85-65d2-4b8e-b717-a100c86b82d7)
+b954b0)
+reenshot (152)](https://github.com/user-attachments/assets/00c5086a-d30b-4986-b410-ae1d8557a726)
+attachm![Screenshot (151)](https://github.com/user-attachments/assets/e0dc572c-52c8-4f7e-975a-ad7f7280d52f)
+![Screenshot (149)](https://github.com/user-attachments/assets/9a9b2c3a-1749-4e0d-8008-3975850f0b19)
+ents/assets/890a0511-180d-4840-af02-0c9f51eb472b)
+(147)](https://github.com/user-attachments/assets/b22ed919-f456-4a4f-a64f-b37b08397d38)
+http![![Screenshot (147)](https://github.com/user-attachments/assets/d2288a41-378c-4714-beff-09161c89042e)
+Screenshot (146)](https://github.com/user-attachments/assets/8f2005f0-a289-4344-85d2-5e0dec546392)
+s://github.com/user-at![Scree![Screenshot (145)](https://github.com/user-attachments/assets/b7bbf415-2447-4d90-a58a-bba0d679794e)
+nshot (143)](https://github.com/user-attachments/assets/a9e1fbf0-c97f-43d5-95f3-e5b92fa4c146)
+tachments/assets/71b8cca1-1188-4718-821c-b0017f29dc57)
+
+
 
