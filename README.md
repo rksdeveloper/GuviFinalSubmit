@@ -147,21 +147,19 @@ This LMS project demonstrates how to develop a GUI-based application with role-s
 
 ### Adding Images 
 
-![adminLogin](https://github.com/user-attachments/assets/f193e724-0289-4824-8497-24fff310bf25)
-![Screenshot (138)](![Screenshot ![Screenshot (148)](https://github.com/user-![Screenshot (154)](https://github.com/user-attachments/assets/263a15a8-c857-4775-9172-e1bf0209c9f7)
-![Sc![Screenshot (153)](htt![Screenshot (156)](https://github.com/user-attachments/assets/d22285f5-57c5-45b4-9048-e957b2b54bc0)
-ps://github.com/user-attachments/assets/dc47d076-f79e-41a7-b5ce-cf46fd![Screenshot (155)](https://github.com/user-attachments/assets/29fbed85-65d2-4b8e-b717-a100c86b82d7)
-b954b0)
-reenshot (152)](https://github.com/user-attachments/assets/00c5086a-d30b-4986-b410-ae1d8557a726)
-attachm![Screenshot (151)](https://github.com/user-attachments/assets/e0dc572c-52c8-4f7e-975a-ad7f7280d52f)
-![Screenshot (149)](https://github.com/user-attachments/assets/9a9b2c3a-1749-4e0d-8008-3975850f0b19)
-ents/assets/890a0511-180d-4840-af02-0c9f51eb472b)
-(147)](https://github.com/user-attachments/assets/b22ed919-f456-4a4f-a64f-b37b08397d38)
-http![![Screenshot (147)](https://github.com/user-attachments/assets/d2288a41-378c-4714-beff-09161c89042e)
-Screenshot (146)](https://github.com/user-attachments/assets/8f2005f0-a289-4344-85d2-5e0dec546392)
-s://github.com/user-at![Scree![Screenshot (145)](https://github.com/user-attachments/assets/b7bbf415-2447-4d90-a58a-bba0d679794e)
-nshot (143)](https://github.com/user-attachments/assets/a9e1fbf0-c97f-43d5-95f3-e5b92fa4c146)
-tachments/assets/71b8cca1-1188-4718-821c-b0017f29dc57)
+
+![login](https://github.com/user-attachments/assets/4b9e29c7-acfd-4a0c-909b-907a70b18abb)
+
+![adminLogin](https://github.com/user-attachments/assets/54436c6e-001d-4ec2-aaf7-d9143923343b)
+![admin1](https://github.com/user-attachments/assets/56114fdf-df52-4b45-bd3c-89ba651426d1)
+![admin](https://github.com/user-attachments/assets/0218314f-fef9-469e-b198-10263e3ed702)
+![instructordashboard](https://github.com/user-attachments/assets/5c15f554-0b33-45df-a7d6-a6e224304b35)
+
+![StudentLogin](https://github.com/user-attachments/assets/88d52a2f-52df-4dbe-b737-0257448c1112)
+![studentDashboard](https://github.com/user-attachments/assets/5aef562a-02b9-44b2-8f61-1871fe783f3b)
+![studentdashboard1](https://github.com/user-attachments/assets/aa63013f-0fa0-43f1-8669-6197c1946a90)
+
+
 
 
 
